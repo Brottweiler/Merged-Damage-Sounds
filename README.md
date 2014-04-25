@@ -5,7 +5,7 @@ Alpha hurt sound (ugh!) merged with new hit sounds, and removed background noise
 
 Credit:
 ------
-[xDino_Saurus](https://oc.tc/xDino_Saurus) for the idea.
+* [xDino_Saurus](https://oc.tc/xDino_Saurus) for the idea.
 
 Licensing:
 ------
