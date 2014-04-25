@@ -3,6 +3,10 @@ Merged Damage Sounds by Brottweiler
 
 Alpha hurt sound (ugh!) merged with new hit sounds, and removed background noise!
 
+Credit:
+------
+[xDino_Saurus](https://oc.tc/xDino_Saurus) for the idea.
+
 Licensing:
 ------
 This resource pack is under [WTFPLv2](http://www.wtfpl.net/about/).
