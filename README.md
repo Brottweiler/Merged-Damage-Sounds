@@ -3,6 +3,14 @@ Merged Damage Sounds by Brottweiler
 
 Alpha hurt sound (ugh!) merged with new hit sounds, and removed background noise!
 
+How it was done:
+------
+Using [Audacity](http://audacity.sourceforge.net/), I ran the noise profiler on the old `hurt.ogg` sound, to remove a background noise that was present.
+
+Merged `hurt.ogg` with `hit1.ogg`, and cut the `hurt.ogg` sound so it ended when `hit1.ogg` ended.
+
+Repeated the process above for `hit2.ogg` and `hit3.ogg`, then saved them as `hit[1-3].ogg`. 
+
 Credit:
 ------
 * [xDino_Saurus](https://oc.tc/xDino_Saurus) for the idea.
