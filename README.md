@@ -17,4 +17,4 @@ Redistribute/Modify at will.
 
 No need to ask permission for use of my resource pack in any way, I won't reply, the answer is yes you are allowed to, and you don't need to notify me.
 
-Reason why I use this license is becuase I did not create neither of these sounds. I simply ran a noise profiler on the old hurt sound to remove background noise, then I merged them. Do what the fuck you want with them, but it would be nice if you gave me credit!
+Reason why I use this license is because I did not create neither of these sounds. I simply ran a noise profiler on the old hurt sound to remove background noise, then I merged them. Do what the fuck you want with them, but it would be nice if you gave me credit!
