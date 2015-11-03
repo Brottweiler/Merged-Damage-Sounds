@@ -13,7 +13,7 @@ Repeated the process above for `hit2.ogg` and `hit3.ogg`, then saved them as `hi
 
 Credit:
 ------
-* [xDino_Saurus](https://oc.tc/xDino_Saurus) for the idea.
+* [Dino_Saurus](https://oc.tc/Dino_Saurus) for the idea.
 
 Licensing:
 ------
