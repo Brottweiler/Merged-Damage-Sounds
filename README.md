@@ -5,7 +5,7 @@ Alpha hurt sound (ugh!) merged with new hit sounds, and removed background noise
 
 How it was done:
 ------
-Using [Audacity](http://audacity.sourceforge.net/), I ran the noise profiler on the old `hurt.ogg` sound, to remove a background noise that was present.
+Using [Audacity](http://audacityteam.org/), I ran the noise profiler on the old `hurt.ogg` sound, to remove a background noise that was present.
 
 Merged `hurt.ogg` with `hit1.ogg`, and cut the `hurt.ogg` sound so it ended when `hit1.ogg` ended.
 
