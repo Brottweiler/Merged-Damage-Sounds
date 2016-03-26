@@ -1,6 +1,9 @@
 Merged Damage Sounds by Brottweiler
 ==========
 
+[![GitHub license](https://img.shields.io/badge/license-WTFPL-blue.svg)](http://www.wtfpl.net/about/)
+[![Github All Releases](https://img.shields.io/github/downloads/Brottweiler/Merged-Damage-Sounds/total.svg)](https://github.com/Brottweiler/Merged-Damage-Sounds/releases)
+
 Alpha/Beta Minecraft hurt sound (ugh!) merged with new hit sounds, and removed background noise!
 
 How it was done:
