@@ -16,7 +16,7 @@ Repeated the process above for `hit2.ogg` and `hit3.ogg`, then saved them as `hi
 
 Credit
 ------
-* [Dino_Saurus](https://oc.tc/Dino_Saurus) for the idea.
+* [Dino_Saurus](https://oc.tc/053ca59c92f94c808c429ff175dff97e) for the idea.
 
 Licensing
 ------
