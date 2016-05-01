@@ -4,9 +4,9 @@ Merged Damage Sounds by Brottweiler
 [![GitHub license](https://img.shields.io/badge/license-WTFPL-blue.svg)](http://www.wtfpl.net/about/)
 [![Github All Releases](https://img.shields.io/github/downloads/Brottweiler/Merged-Damage-Sounds/total.svg)](https://github.com/Brottweiler/Merged-Damage-Sounds/releases)
 
-Alpha/Beta Minecraft hurt sound (ugh!) merged with new hit sounds, and removed background noise!
+>Alpha/Beta Minecraft hurt sound (ugh!) merged with new hit sounds, and removed background noise!
 
-How it was done:
+How it was done
 ------
 Using [Audacity](http://audacityteam.org/), I ran the noise profiler on the old `hurt.ogg` sound, to remove a background noise that was present.
 
@@ -14,11 +14,11 @@ Merged `hurt.ogg` with `hit1.ogg`, and cut the `hurt.ogg` sound so it ended when
 
 Repeated the process above for `hit2.ogg` and `hit3.ogg`, then saved them as `hit[1-3].ogg`. 
 
-Credit:
+Credit
 ------
 * [Dino_Saurus](https://oc.tc/Dino_Saurus) for the idea.
 
-Licensing:
+Licensing
 ------
 This resource pack is under [WTFPLv2](http://www.wtfpl.net/about/).
 
