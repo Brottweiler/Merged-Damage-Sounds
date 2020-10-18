@@ -14,7 +14,9 @@ Merged `hurt.ogg` with `hit1.ogg`, and cut the `hurt.ogg` sound so it ended when
 
 Repeated the process above for `hit2.ogg` and `hit3.ogg`, then saved them as `hit[1-3].ogg`.
 
-**Update 2020-10-18**: In recent Minecraft versions, separate damage sounds were added for taking damage due to berry bushes, drowning and fire. These were also added.
+### Update 2020-10-18
+
+In recent Minecraft versions, separate damage sounds were added for taking damage due to berry bushes, drowning and fire. These were also added.
 
 Credit
 ------
