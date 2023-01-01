@@ -10,7 +10,7 @@ Merged Damage Sounds
 
 Process
 ------
-Using [Audacity](http://audacityteam.org/), I ran the noise profiler on the old `hurt.ogg` sound, to remove a background noise that was present.
+[Audacity](http://audacityteam.org/)'s noise profiler was ran over the old `hurt.ogg` sound, to remove a background noise that was present.
 
 Merged `hurt.ogg` with `hit1.ogg`, and cut the `hurt.ogg` sound so it ended when `hit1.ogg` ended. This also removed a weird sound that was in the end of the sound file.
 
