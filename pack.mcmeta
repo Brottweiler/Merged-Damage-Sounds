@@ -1,8 +1,8 @@
 {
 	"pack": {
-		"pack_format": 75,
+		"pack_format": 84.0,
 		"description": "\u00A73Merged Damage Sounds \u00A7ev1.9\n\u00A78by \u00A73Brottweiler",
-		"min_format": 75,
-		"max_format": 75
+		"min_format": 84.0,
+		"max_format": 84.0
 	}
 }
